@@ -1,2 +1,6 @@
-# train_seat_reservation
-add two class one class name
+## Train Seat Reservation System in CPP
+### Features
+- Welcome Screen
+- View Train
+- Book Seats
+
