@@ -1,0 +1,6 @@
+/home/khubaib/train_seat_reservation/out/build/CMakeFiles/SRP.dir
+/home/khubaib/train_seat_reservation/out/build/CMakeFiles/edit_cache.dir
+/home/khubaib/train_seat_reservation/out/build/CMakeFiles/rebuild_cache.dir
+/home/khubaib/train_seat_reservation/out/build/SEAT/CMakeFiles/seats.dir
+/home/khubaib/train_seat_reservation/out/build/SEAT/CMakeFiles/edit_cache.dir
+/home/khubaib/train_seat_reservation/out/build/SEAT/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libseats.a CMakeFiles/seats.dir/seats.cpp.o
+/usr/bin/ranlib libseats.a

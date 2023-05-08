@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SRP.dir/main.cpp.o -o SRP   -L/home/khubaib/train_seat_reservation/SEAT  -Wl,-rpath,/home/khubaib/train_seat_reservation/SEAT SEAT/libseats.a 

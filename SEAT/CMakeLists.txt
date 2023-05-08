@@ -1,0 +1,1 @@
+add_library(seats seats.cpp seats.h)

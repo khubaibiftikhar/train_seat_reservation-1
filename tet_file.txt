@@ -1,0 +1,7 @@
+  name   kjhg   seat_num    1  class_type   a
+  name   kjhg   seat_num    2  class_type   a
+  name   lkjhgf   seat_num    3  class_type   b
+  name   5   seat_num    2  class_type   b
+  name   dfg   seat_num    3  class_type   a
+  name   dafs   seat_num    3  class_type   c
+  name   asdfg   seat_num    6  class_type   c
