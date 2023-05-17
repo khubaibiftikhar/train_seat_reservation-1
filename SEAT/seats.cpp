@@ -33,6 +33,8 @@ void seats::lowerclass(int num, int i, int j)
 
             if (num == lowerclass_temp[i][j])
 
+
+
                 cout << "**Seat is taken**\n\n";
         }
     }

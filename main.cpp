@@ -137,11 +137,12 @@ userInput:
     //     cout << "*************************\n";
     //     number.lowerclass2(seat_num, a, b);
     //     cout << "*************************\n";
-    // }
+    }
     break;
     default:
         cout << "No more box are available";
     }
+
 
     goto userInput;
 
