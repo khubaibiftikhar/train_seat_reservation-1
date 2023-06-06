@@ -11,6 +11,7 @@
 using namespace std;
 ofstream file("tet_file.txt");
 int main()
+
 {
     int a, b;
 

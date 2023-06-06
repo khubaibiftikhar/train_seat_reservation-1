@@ -3,6 +3,7 @@
 #include <iomanip>
 #include <limits>
 
+
 using namespace std;
 
 void seats::lowerclass(int num, int i, int j)
